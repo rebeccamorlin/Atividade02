@@ -1,0 +1,23 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+#meuParagrafo {
+    font-size: 18px;
+    color: rgb(1, 1, 92);
+    font-weight: bolder;
+}
+
+#meuBotao {
+    padding: 10px 20px;
+    background-color: lightgray;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#meuBotao:hover {
+    background-color: gray;
+    color: white;
+}
